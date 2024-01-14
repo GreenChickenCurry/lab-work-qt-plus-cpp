@@ -1,1 +1,1 @@
-# Programs for laboratory work (qt + c++) in computational mathematics 
+# Programs For Laboratory Work (QT + C++) In Computational Mathematics
