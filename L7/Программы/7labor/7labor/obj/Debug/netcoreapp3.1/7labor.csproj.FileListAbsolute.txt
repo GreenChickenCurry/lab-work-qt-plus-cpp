@@ -1,0 +1,14 @@
+C:\Users\Maks\source\repos\7labor\7labor\obj\Debug\netcoreapp3.1\7labor.csproj.AssemblyReference.cache
+C:\Users\Maks\source\repos\7labor\7labor\obj\Debug\netcoreapp3.1\7labor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks\source\repos\7labor\7labor\obj\Debug\netcoreapp3.1\7labor.AssemblyInfoInputs.cache
+C:\Users\Maks\source\repos\7labor\7labor\obj\Debug\netcoreapp3.1\7labor.AssemblyInfo.cs
+C:\Users\Maks\source\repos\7labor\7labor\obj\Debug\netcoreapp3.1\7labor.csproj.CoreCompileInputs.cache
+C:\Users\Maks\source\repos\7labor\7labor\bin\Debug\netcoreapp3.1\7labor.exe
+C:\Users\Maks\source\repos\7labor\7labor\bin\Debug\netcoreapp3.1\7labor.deps.json
+C:\Users\Maks\source\repos\7labor\7labor\bin\Debug\netcoreapp3.1\7labor.runtimeconfig.json
+C:\Users\Maks\source\repos\7labor\7labor\bin\Debug\netcoreapp3.1\7labor.runtimeconfig.dev.json
+C:\Users\Maks\source\repos\7labor\7labor\bin\Debug\netcoreapp3.1\7labor.dll
+C:\Users\Maks\source\repos\7labor\7labor\bin\Debug\netcoreapp3.1\7labor.pdb
+C:\Users\Maks\source\repos\7labor\7labor\obj\Debug\netcoreapp3.1\7labor.dll
+C:\Users\Maks\source\repos\7labor\7labor\obj\Debug\netcoreapp3.1\7labor.pdb
+C:\Users\Maks\source\repos\7labor\7labor\obj\Debug\netcoreapp3.1\7labor.genruntimeconfig.cache

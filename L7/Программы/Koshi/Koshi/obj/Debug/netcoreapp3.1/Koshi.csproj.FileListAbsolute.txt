@@ -1,0 +1,14 @@
+C:\Users\Maks\source\repos\Koshi\Koshi\bin\Debug\netcoreapp3.1\Koshi.exe
+C:\Users\Maks\source\repos\Koshi\Koshi\bin\Debug\netcoreapp3.1\Koshi.deps.json
+C:\Users\Maks\source\repos\Koshi\Koshi\bin\Debug\netcoreapp3.1\Koshi.runtimeconfig.json
+C:\Users\Maks\source\repos\Koshi\Koshi\bin\Debug\netcoreapp3.1\Koshi.runtimeconfig.dev.json
+C:\Users\Maks\source\repos\Koshi\Koshi\bin\Debug\netcoreapp3.1\Koshi.dll
+C:\Users\Maks\source\repos\Koshi\Koshi\bin\Debug\netcoreapp3.1\Koshi.pdb
+C:\Users\Maks\source\repos\Koshi\Koshi\obj\Debug\netcoreapp3.1\Koshi.csproj.AssemblyReference.cache
+C:\Users\Maks\source\repos\Koshi\Koshi\obj\Debug\netcoreapp3.1\Koshi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks\source\repos\Koshi\Koshi\obj\Debug\netcoreapp3.1\Koshi.AssemblyInfoInputs.cache
+C:\Users\Maks\source\repos\Koshi\Koshi\obj\Debug\netcoreapp3.1\Koshi.AssemblyInfo.cs
+C:\Users\Maks\source\repos\Koshi\Koshi\obj\Debug\netcoreapp3.1\Koshi.csproj.CoreCompileInputs.cache
+C:\Users\Maks\source\repos\Koshi\Koshi\obj\Debug\netcoreapp3.1\Koshi.dll
+C:\Users\Maks\source\repos\Koshi\Koshi\obj\Debug\netcoreapp3.1\Koshi.pdb
+C:\Users\Maks\source\repos\Koshi\Koshi\obj\Debug\netcoreapp3.1\Koshi.genruntimeconfig.cache

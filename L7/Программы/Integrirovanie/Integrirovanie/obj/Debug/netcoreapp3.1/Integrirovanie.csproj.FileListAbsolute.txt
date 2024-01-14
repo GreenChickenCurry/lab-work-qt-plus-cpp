@@ -1,0 +1,14 @@
+C:\Users\Maks\source\repos\Integrirovanie\Integrirovanie\obj\Debug\netcoreapp3.1\Integrirovanie.csproj.AssemblyReference.cache
+C:\Users\Maks\source\repos\Integrirovanie\Integrirovanie\obj\Debug\netcoreapp3.1\Integrirovanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks\source\repos\Integrirovanie\Integrirovanie\obj\Debug\netcoreapp3.1\Integrirovanie.AssemblyInfoInputs.cache
+C:\Users\Maks\source\repos\Integrirovanie\Integrirovanie\obj\Debug\netcoreapp3.1\Integrirovanie.AssemblyInfo.cs
+C:\Users\Maks\source\repos\Integrirovanie\Integrirovanie\obj\Debug\netcoreapp3.1\Integrirovanie.csproj.CoreCompileInputs.cache
+C:\Users\Maks\source\repos\Integrirovanie\Integrirovanie\bin\Debug\netcoreapp3.1\Integrirovanie.exe
+C:\Users\Maks\source\repos\Integrirovanie\Integrirovanie\bin\Debug\netcoreapp3.1\Integrirovanie.deps.json
+C:\Users\Maks\source\repos\Integrirovanie\Integrirovanie\bin\Debug\netcoreapp3.1\Integrirovanie.runtimeconfig.json
+C:\Users\Maks\source\repos\Integrirovanie\Integrirovanie\bin\Debug\netcoreapp3.1\Integrirovanie.runtimeconfig.dev.json
+C:\Users\Maks\source\repos\Integrirovanie\Integrirovanie\bin\Debug\netcoreapp3.1\Integrirovanie.dll
+C:\Users\Maks\source\repos\Integrirovanie\Integrirovanie\bin\Debug\netcoreapp3.1\Integrirovanie.pdb
+C:\Users\Maks\source\repos\Integrirovanie\Integrirovanie\obj\Debug\netcoreapp3.1\Integrirovanie.dll
+C:\Users\Maks\source\repos\Integrirovanie\Integrirovanie\obj\Debug\netcoreapp3.1\Integrirovanie.pdb
+C:\Users\Maks\source\repos\Integrirovanie\Integrirovanie\obj\Debug\netcoreapp3.1\Integrirovanie.genruntimeconfig.cache

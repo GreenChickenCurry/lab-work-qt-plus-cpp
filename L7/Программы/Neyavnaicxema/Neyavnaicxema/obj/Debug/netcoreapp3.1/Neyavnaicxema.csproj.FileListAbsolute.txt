@@ -1,0 +1,14 @@
+C:\Users\Maks\source\repos\Neyavnaicxema\Neyavnaicxema\bin\Debug\netcoreapp3.1\Neyavnaicxema.exe
+C:\Users\Maks\source\repos\Neyavnaicxema\Neyavnaicxema\bin\Debug\netcoreapp3.1\Neyavnaicxema.deps.json
+C:\Users\Maks\source\repos\Neyavnaicxema\Neyavnaicxema\bin\Debug\netcoreapp3.1\Neyavnaicxema.runtimeconfig.json
+C:\Users\Maks\source\repos\Neyavnaicxema\Neyavnaicxema\bin\Debug\netcoreapp3.1\Neyavnaicxema.runtimeconfig.dev.json
+C:\Users\Maks\source\repos\Neyavnaicxema\Neyavnaicxema\bin\Debug\netcoreapp3.1\Neyavnaicxema.dll
+C:\Users\Maks\source\repos\Neyavnaicxema\Neyavnaicxema\bin\Debug\netcoreapp3.1\Neyavnaicxema.pdb
+C:\Users\Maks\source\repos\Neyavnaicxema\Neyavnaicxema\obj\Debug\netcoreapp3.1\Neyavnaicxema.csproj.AssemblyReference.cache
+C:\Users\Maks\source\repos\Neyavnaicxema\Neyavnaicxema\obj\Debug\netcoreapp3.1\Neyavnaicxema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks\source\repos\Neyavnaicxema\Neyavnaicxema\obj\Debug\netcoreapp3.1\Neyavnaicxema.AssemblyInfoInputs.cache
+C:\Users\Maks\source\repos\Neyavnaicxema\Neyavnaicxema\obj\Debug\netcoreapp3.1\Neyavnaicxema.AssemblyInfo.cs
+C:\Users\Maks\source\repos\Neyavnaicxema\Neyavnaicxema\obj\Debug\netcoreapp3.1\Neyavnaicxema.csproj.CoreCompileInputs.cache
+C:\Users\Maks\source\repos\Neyavnaicxema\Neyavnaicxema\obj\Debug\netcoreapp3.1\Neyavnaicxema.dll
+C:\Users\Maks\source\repos\Neyavnaicxema\Neyavnaicxema\obj\Debug\netcoreapp3.1\Neyavnaicxema.pdb
+C:\Users\Maks\source\repos\Neyavnaicxema\Neyavnaicxema\obj\Debug\netcoreapp3.1\Neyavnaicxema.genruntimeconfig.cache
